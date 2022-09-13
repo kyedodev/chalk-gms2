@@ -1,7 +1,11 @@
 TRANS RIGHTS = HUMAN RIGHTS, BLACK LIVES MATTER.
 
-A LOT of this code is based off of Scribble by Juju Adams.
+A LOT of the text rendering code is based off of
+Scribble by Juju Adams.
 https://github.com/JujuAdams/scribble
+
+Window frame fix is possible by YellowAfterLife.
+https://github.com/YAL-GameMaker/window_frame
 
        _           _   _
  ___. | |_.  ___. | | | |_.
