@@ -4,7 +4,7 @@ A LOT of the text rendering code is based off of
 Scribble by Juju Adams.
 https://github.com/JujuAdams/scribble
 
-Window frame fix is possible by YellowAfterLife.
+Window frame fix is possible by YellowAfterlife.
 https://github.com/YAL-GameMaker/window_frame
 
        _           _   _
